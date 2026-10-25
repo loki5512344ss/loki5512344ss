@@ -36,7 +36,6 @@
 
 **Java, плагины Minecraft (Paper)**
 - [LoAuth](https://github.com/loki5512344ss/LoAuth) · [LoChat](https://github.com/loki5512344ss/LoChat) · [LoMines](https://github.com/loki5512344ss/LoMines) · [LoParkour](https://github.com/loki5512344ss/LoParkour) · [LoReport](https://github.com/loki5512344ss/LoReport)
-- [discord-bot](https://github.com/loki5512344ss/discord-bot)
 
 **Web**
 - [VNOX-Web](https://github.com/loki5512344ss/VNOX-Web)
