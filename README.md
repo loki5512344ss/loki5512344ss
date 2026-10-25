@@ -22,21 +22,21 @@
 
 ## Проекты
 
-Код лежит на [git.wihuk.pro/boba](https://git.wihuk.pro/boba).
+Основной репозиторий кода: [git.wihuk.pro/boba](https://git.wihuk.pro/boba), здесь его копия.
 
 **Rust**
-- [Vnox](https://git.wihuk.pro/boba/VNOX-Server): self-hosted платформа для голоса и чата
-- [Indexium](https://git.wihuk.pro/boba/Indexium): индексатор модов Minecraft
-- [jmove](https://git.wihuk.pro/boba/jmove): CLI, который переносит файлы и сам правит импорты
-- [noxis](https://git.wihuk.pro/boba/obfuskator): обфускатор JVM-байткода
-- [vois](https://git.wihuk.pro/boba/vois): голосовой чейнджер в реальном времени
-- [Wherry](https://git.wihuk.pro/boba/Wherry): FTP/SFTP-клиент на Tauri
-- [Terrafier](https://git.wihuk.pro/boba/Terrafier): редактор миров Minecraft
-- [discord-bot-kernel](https://git.wihuk.pro/boba/discord-bot-kernel) · [guard](https://git.wihuk.pro/boba/guard)
+- [Vnox](https://github.com/loki5512344ss/VNOX-Server): self-hosted платформа для голоса и чата
+- [Indexium](https://github.com/loki5512344ss/Indexium): индексатор модов Minecraft
+- [jmove](https://github.com/loki5512344ss/jmove): CLI, который переносит файлы и сам правит импорты
+- [noxis](https://github.com/loki5512344ss/obfuskator): обфускатор JVM-байткода
+- [vois](https://github.com/loki5512344ss/vois): голосовой чейнджер в реальном времени
+- [Wherry](https://github.com/loki5512344ss/Wherry): FTP/SFTP-клиент на Tauri
+- [Terrafier](https://github.com/loki5512344ss/Terrafier): редактор миров Minecraft
+- [discord-bot-kernel](https://github.com/loki5512344ss/discord-bot-kernel) · [guard](https://github.com/loki5512344ss/guard)
 
 **Java, плагины Minecraft (Paper)**
-- [LoAuth](https://git.wihuk.pro/boba/LoAuth) · [LoChat](https://git.wihuk.pro/boba/LoChat) · [LoMines](https://git.wihuk.pro/boba/LoMines) · [LoParkour](https://git.wihuk.pro/boba/LoParkour) · [LoReport](https://git.wihuk.pro/boba/LoReport) · [CustomJobs](https://git.wihuk.pro/boba/CustomJobs)
-- [discord-bot](https://git.wihuk.pro/boba/discord-bot)
+- [LoAuth](https://github.com/loki5512344ss/LoAuth) · [LoChat](https://github.com/loki5512344ss/LoChat) · [LoMines](https://github.com/loki5512344ss/LoMines) · [LoParkour](https://github.com/loki5512344ss/LoParkour) · [LoReport](https://github.com/loki5512344ss/LoReport)
+- [discord-bot](https://github.com/loki5512344ss/discord-bot)
 
 **Web**
-- [VNOX-Web](https://git.wihuk.pro/boba/VNOX-Web) · [bio](https://git.wihuk.pro/boba/bio)
+- [VNOX-Web](https://github.com/loki5512344ss/VNOX-Web)
